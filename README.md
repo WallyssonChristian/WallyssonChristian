@@ -1,12 +1,13 @@
 # Wallysson Araujo
 
-Apaixonado em games desde criança... hoje vejo o outro lado da tela
+🎮 Passionate gamer since childhood, now exploring the other side of the screen.
 
-🧠 Estou aprendendo Ciência de Dados com Python, e Java
+🧠 Learning Data Science with Python and doing a Bootcamp of Java.
 
-🤔 Quero aprender mais sobre IAs
+🤖 Eager to dive deeper into the world of Artificial Intelligence.
 
-😄 Amo jogar, assistir e mestrar RPG de mesa
+😄 Enthusiastic about playing, watching, and running tabletop RPGs.
+
 
 ## 💻 Skills
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
