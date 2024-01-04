@@ -2,7 +2,7 @@
 
 🎮 Passionate gamer since childhood, now exploring the other side of the screen.
 
-🧠 Learning Data Science with Python and doing a Bootcamp of Java.
+🧠 Learning Data Science with Python and doing a Bootcamp full-stack Java.
 
 🤖 Eager to dive deeper into the world of Artificial Intelligence.
 
